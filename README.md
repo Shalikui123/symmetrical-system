@@ -1,2 +1,5 @@
 # symmetrical-system
-This is my website about Gymnastics It's helpful to teach Gymnastics! :-)
+Hello world my name is Shali
+I like Html Css and Lua 
+
+Am learning to code. 
